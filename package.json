@@ -4,7 +4,7 @@
   "description": "Boostrap  4 work flow ",
   "main": " ",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp"
   },
   "author": "Obeng Bismark",
   "license": "MIT",
